@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <origin/>
+                <pubdate>20080401</pubdate>
+                <title>CA_Counties</title>
+                <edition>2008</edition>
+                <geoform>vector digital data</geoform>
+                <serinfo>
+                    <sername>ESRI® Data &amp; Maps</sername>
+                    <issue>2008 World, Europe, United States, Canada, and Mexico</issue>
+                </serinfo>
+                <pubinfo>
+                    <pubplace/>
+                    <publish>ESRI</publish>
+                </pubinfo>
+                <othercit>Location: \usa\census</othercit>
+                <onlink>http://services6.arcgis.com/mDUBwXYmCImffPXw/arcgis/rest/services/CA_Counties/FeatureServer</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>U.S. Counties represents the counties of the United States in the 50 states, the District of Columbia, and Puerto Rico.</abstract>
+            <purpose>California County Boundaries</purpose>
+            <supplinf>Largest scale when displaying the data: 1:100,000.</supplinf>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <mdattim>
+                    <sngdate>
+                        <caldate>19970101</caldate>
+                    </sngdate>
+                    <sngdate>
+                        <caldate>20070606</caldate>
+                    </sngdate>
+                    <sngdate>
+                        <caldate>20000101</caldate>
+                    </sngdate>
+                    <sngdate>
+                        <caldate>20050210</caldate>
+                    </sngdate>
+                    <sngdate>
+                        <caldate>20070101</caldate>
+                    </sngdate>
+                </mdattim>
+            </timeinfo>
+            <current>publication date: 200701, 20070606, 20050210; ground condition: 2000, 1997</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>Annually</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-178.227822</westbc>
+                <eastbc>-65.244234</eastbc>
+                <northbc>71.390482</northbc>
+                <southbc>17.881242</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>polygon</themekey>
+                <themekey>demographics</themekey>
+                <themekey>farm information</themekey>
+                <themekey>society</themekey>
+                <themekey>households</themekey>
+                <themekey>detail</themekey>
+                <themekey>boundaries</themekey>
+                <themekey>area</themekey>
+                <themekey>population</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>boundaries</themekey>
+                <themekey>society</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>Counties</placekey>
+                <placekey>U.S. Counties</placekey>
+                <placekey>United States</placekey>
+                <placekey>Puerto Rico</placekey>
+            </place>
+            <temporal>
+                <tempkt>None</tempkt>
+                <tempkey>2005</tempkey>
+                <tempkey>1997</tempkey>
+                <tempkey>1999</tempkey>
+                <tempkey>2007</tempkey>
+                <tempkey>2000</tempkey>
+            </temporal>
+        </keywords>
+        <accconst>Access granted to Licensee only.</accconst>
+        <useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI® software. Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, “Geodata” shall mean any digital data set consisting of geographic data coordinates and associated attributes. The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s). Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s). [Applicable to U.S. Government Agencies and ESRI sources only]–In addition to the redistribution rights above, geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s). The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps. Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions. Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt. THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA. EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. HIGH RISK ACTIVITIES: (A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES. (B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE. Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee. IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY. Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI. In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>ESRI</cntorg>
+                    <cntper>Data Team</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>380 New York Street</address>
+                    <city>Redlands</city>
+                    <state>California</state>
+                    <postal>92373-8100</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>909-793-2853</cntvoice>
+                <cntfax>909-793-5953</cntfax>
+                <cntemail>info@esri.com</cntemail>
+                <hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
+                <cntinst>In the United States– Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office. For support, you may contact ESRI Support Center by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. Outside the United States– Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor. This information can be found at http://gis.esri.com/intldist/contact/. For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+            </cntinfo>
+        </ptcontac>
+        <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.3.1.1850</native>
+    </idinfo>
+    <dataqual>
+        <logic>The shapefile is converted to SDC (Smart Data Compression) format using either ESRI SDC Data Development Kit Professional 2 (DDKP2) or tools in ArcGIS. The SDC data set is then loaded into ArcSDE® to verify and validate the geometry.</logic>
+        <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+        <posacc>
+            <horizpa>
+                <horizpar>The geospatial part of this data set was extracted from the Census 2000 and 2002 TIGER/Line® files. The positional accuracy of the TIGER/Line coordinates varies with the source materials used but at best meets the established National Map Accuracy standards (+/- 167 feet approximately) where 1:100,000-scale maps from the USGS are the source. The Census Bureau cannot specify the accuracy of feature updates added by its field staff or of features derived from the GBF/DIME-Files or other map sources. Thus, the level of positional accuracy in the TIGER/Line files is not suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.</horizpar>
+            </horizpa>
+        </posacc>
+        <lineage>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20050210</pubdate>
+                        <title>The World Factbook</title>
+                    </citeinfo>
+                </srccite>
+                <typesrc>onLine</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <sngdate>
+                            <caldate>20050210</caldate>
+                        </sngdate>
+                    </timeinfo>
+                    <srccurr>publication date</srccurr>
+                </srctime>
+                <srccitea>The World Factbook</srccitea>
+                <srccontr>Attribute data</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20010101</pubdate>
+                        <title>Summary File 1 (SF1)</title>
+                    </citeinfo>
+                </srccite>
+                <typesrc>CD-ROM</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <sngdate>
+                            <caldate>20000101</caldate>
+                        </sngdate>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>Summary File 1 (SF1)</srccitea>
+                <srccontr>Attribute data</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>19990301</pubdate>
+                        <title>1997 Census of Agriculture</title>
+                    </citeinfo>
+                </srccite>
+                <typesrc>CD-ROM</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <sngdate>
+                            <caldate>19970101</caldate>
+                        </sngdate>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>1997 Census of Agriculture</srccitea>
+                <srccontr>Attribute data</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20070606</pubdate>
+                        <title>ESRI Community Data</title>
+                    </citeinfo>
+                </srccite>
+                <typesrc>dvd</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <sngdate>
+                            <caldate>20070606</caldate>
+                        </sngdate>
+                    </timeinfo>
+                    <srccurr>publication date</srccurr>
+                </srctime>
+                <srccitea>ESRI Community Data</srccitea>
+                <srccontr>Attribute data</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20070101</pubdate>
+                        <title>Dynamap/2000 v. 17.0</title>
+                    </citeinfo>
+                </srccite>
+                <srcscale>100000</srcscale>
+                <typesrc>dvd</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <sngdate>
+                            <caldate>20070101</caldate>
+                        </sngdate>
+                    </timeinfo>
+                    <srccurr>publication date</srccurr>
+                </srctime>
+                <srccitea>Dynamap/2000 v. 17.0</srccitea>
+                <srccontr>Attribute and geospatial data</srccontr>
+            </srcinfo>
+            <procstep>
+                <procdesc>The following steps were performed by ESRI: Extracted county geography from Tele Atlas Dynamap/2000 v. 17.0. Removed Alaskan islands west of 180 degrees longitude. Created region features from the polygon features. Attached and formatted the attributes from 2006 U.S. Counties. Put "-99" values into all number attributes (except SQMI) for Puerto Rico. Replaced attribute POP2005 with POP2007 and attribute POP05_SQMI with POP07_SQMI. Calculated new values for attributes POP00_SQMI, POP07_SQMI, and SQMI. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+                <procdate>20070717</procdate>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <ptvctcnt>58</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>Counties</enttypl>
+                <enttypd>A type of governmental unit that is the primary legal division of every state except Alaska and Louisiana. A number of geographic entities are not legally designated as a county, but are recognized by the Census Bureau as equivalent to a county for data presentation purposes. These include the boroughs, city and boroughs, municipality, and census areas in Alaska; parishes in Louisiana; and cities that are independent of any county (independent cities) in Maryland, Missouri, Nevada, and Virginia. They also include the municipios in Puerto Rico. Because they contain no primary legal divisions, the Census Bureau treats the District of Columbia as equivalent to a county (as well as equivalent to a state) for data presentation purposes.</enttypd>
+                <enttypds>Department of Commerce, Census Bureau</enttypds>
+            </enttyp>
+            <attr>
+                <attrlabl>POP00_SQMI</attrlabl>
+                <attrdef>The 2000 population of the county per square mile.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau; ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Calculated populations per square mile for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AMERI_ES</attrlabl>
+                <attrdef>The number of people identified as American Indian or Alaska Native alone in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>STATE_NAME</attrlabl>
+                <attrdef>The name for the state in which the county is located.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <codesetd>
+                        						
+                        <codesetn>Federal Information Processing Standards</codesetn>
+                        						
+                        <codesets>National Institute of Standards and Technology</codesets>
+                        					
+                    </codesetd>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>CNTY_FIPS</attrlabl>
+                <attrdef>The FIPS code (three-digit number) for the county.</attrdef>
+                <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+                <attrdomv>
+                    					
+                    <codesetd>
+                        						
+                        <codesetn>Federal Information Processing Standards</codesetn>
+                        						
+                        <codesets>National Institute of Standards and Technology</codesets>
+                        					
+                    </codesetd>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AVE_HH_SZ</attrlabl>
+                <attrdef>The average household size in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AVE_FAM_SZ</attrlabl>
+                <attrdef>The average family size in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Length</attrlabl>
+                <attrdef>Length of feature in internal units.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>CROP_ACR97</attrlabl>
+                <attrdef>The total area of cropland in acres in 1997.</attrdef>
+                <attrdefs>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>POP2007</attrlabl>
+                <attrdef>The 2007 estimated population of the county.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Populations for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AGE_18_21</attrlabl>
+                <attrdef>The number of people 18 to 21 years of age in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AGE_UNDER5</attrlabl>
+                <attrdef>The number of people 0 to 4 years of age in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>HISPANIC</attrlabl>
+                <attrdef>The number of people identified as Hispanic or Latino in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>POP07_SQMI</attrlabl>
+                <attrdef>The 2007 estimated population of the county per square mile.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Calculated populations per square mile for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>POP2000</attrlabl>
+                <attrdef>The 2000 population of the county.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Populations for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>MULT_RACE</attrlabl>
+                <attrdef>The number of people identified as two or more races in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>HSEHLD_1_M</attrlabl>
+                <attrdef>The number of one-person male households in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>MED_AGE_F</attrlabl>
+                <attrdef>The median age for females in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>MED_AGE_M</attrlabl>
+                <attrdef>The median age for males in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>FHH_CHILD</attrlabl>
+                <attrdef>The number of family households with a woman and related children under 18 years but no husband in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>FAMILIES</attrlabl>
+                <attrdef>The number of families in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Area</attrlabl>
+                <attrdef>Area of feature in internal units squared.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>NO_FARMS97</attrlabl>
+                <attrdef>The total number of farms in 1997.</attrdef>
+                <attrdefs>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AGE_50_64</attrlabl>
+                <attrdef>The number of people 50 to 64 years of age in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AGE_65_UP</attrlabl>
+                <attrdef>The number of people 65 years of age and over in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>MARHH_NO_C</attrlabl>
+                <attrdef>The number of family households with a married couple and no related children under 18 years in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AGE_40_49</attrlabl>
+                <attrdef>The number of people 40 to 49 years of age in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AGE_22_29</attrlabl>
+                <attrdef>The number of people 22 to 29 years of age in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>OTHER</attrlabl>
+                <attrdef>The number of people identified as some other race alone in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>FIPS</attrlabl>
+                <attrdef>The combined state and county FIPS code. County FIPS codes begin with 001 for each state—use the combined code (five-digit number) to uniquely identify a county in the country.</attrdef>
+                <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+                <attrdomv>
+                    					
+                    <codesetd>
+                        						
+                        <codesetn>Federal Information Processing Standards</codesetn>
+                        						
+                        <codesets>National Institute of Standards and Technology</codesets>
+                        					
+                    </codesetd>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>ObjectID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>HAWN_PI</attrlabl>
+                <attrdef>The number of people identified as Native Hawaiian and other Pacific Islander alone in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>BLACK</attrlabl>
+                <attrdef>The number of people identified as Black or African American alone in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>ASIAN</attrlabl>
+                <attrdef>The number of people identified as Asian alone in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>MALES</attrlabl>
+                <attrdef>The number of males in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>MARHH_CHD</attrlabl>
+                <attrdef>The number of family households with a married couple and related children under 18 years in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>HOUSEHOLDS</attrlabl>
+                <attrdef>The total number of households in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>OWNER_OCC</attrlabl>
+                <attrdef>The number of housing units that are occupied by the owner in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>MHH_CHILD</attrlabl>
+                <attrdef>The number of family households with a man and related children under 18 years but no wife in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>MED_AGE</attrlabl>
+                <attrdef>The median age for both sexes in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>WHITE</attrlabl>
+                <attrdef>The number of people identified as White alone in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>FEMALES</attrlabl>
+                <attrdef>The number of females in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+                <attrdef>The county name.</attrdef>
+                <attrdefs>Tele Atlas North America, Inc.; United States Central Intelligence Agency</attrdefs>
+                <attrdomv>
+                    					
+                    <codesetd>
+                        						
+                        <codesetn>Federal Information Processing Standards</codesetn>
+                        						
+                        <codesets>National Institute of Standards and Technology</codesets>
+                        					
+                    </codesetd>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>HSEHLD_1_F</attrlabl>
+                <attrdef>The number of one-person female households in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>RENTER_OCC</attrlabl>
+                <attrdef>The number of housing units that are occupied by renters in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>VACANT</attrlabl>
+                <attrdef>The number of housing units that are vacant in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>HSE_UNITS</attrlabl>
+                <attrdef>The total number of housing units in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AVG_SALE97</attrlabl>
+                <attrdef>The average sales of agricultural products per farm, in thousands of dollars, in 1997.</attrdef>
+                <attrdefs>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SQMI</attrlabl>
+                <attrdef>The area of the county in square miles using Albers Equal Area Projection.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Calculated areas for the features.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AVG_SIZE97</attrlabl>
+                <attrdef>The average farm size in acres in 1997.</attrdef>
+                <attrdefs>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AGE_30_39</attrlabl>
+                <attrdef>The number of people 30 to 39 years of age in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AGE_5_17</attrlabl>
+                <attrdef>The number of people 5 to 17 years of age in 2000.</attrdef>
+                <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Numbers for the features. A -99 value means no data.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Coordinates defining the features.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>STATE_FIPS</attrlabl>
+                <attrdef>The FIPS code (two-digit number) for the state in which the county is located.</attrdef>
+                <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+                <attrdomv>
+                    					
+                    <codesetd>
+                        						
+                        <codesetn>Federal Information Processing Standards</codesetn>
+                        						
+                        <codesets>National Institute of Standards and Technology</codesets>
+                        					
+                    </codesetd>
+                    				
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>ESRI; ESRI International Distributors</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>380 New York Street</address>
+                    <city>Redlands</city>
+                    <state>California</state>
+                    <postal>92373-8100</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>800-447-9778</cntvoice>
+                <cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data. Outside the United States, please direct all inquiries to your local ESRI International Distributor. This information can be found at http://gis.esri.com/intldist/contact/.</cntinst>
+            </cntinfo>
+        </distrib>
+        <distliab>See use constraints.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>SDC</formname>
+                    <formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
+                    <filedec>ArcGIS® software</filedec>
+                    <transize>24.806</transize>
+                </digtinfo>
+                <digtopt>
+                    <offoptn>
+                        <offmedia>dvd</offmedia>
+                        <reccap>
+                            <recden>7.95</recden>
+                            <recdenu>GB (gigabytes)</recdenu>
+                        </reccap>
+                    </offoptn>
+                </digtopt>
+            </digform>
+            <fees>Software purchase price</fees>
+            <ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20090225</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>ESRI</cntorg>
+                    <cntper>Data Team</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>380 New York Street</address>
+                    <city>Redlands</city>
+                    <state>California</state>
+                    <postal>92373-8100</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>909-793-2853</cntvoice>
+                <cntfax>909-793-5953</cntfax>
+                <cntemail>info@esri.com</cntemail>
+                <hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
